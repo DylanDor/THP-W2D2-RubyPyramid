@@ -6,6 +6,6 @@ end
 
 50.times do |n|
     if n%2 != 0
-    puts "#{tab[n]}"
+    puts tab[n]
     end
 end
